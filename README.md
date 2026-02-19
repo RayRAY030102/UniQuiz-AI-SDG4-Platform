@@ -7,7 +7,7 @@ An AI-powered quiz generator for university students, supporting SDG 4: Quality 
 This project aims to provide high-quality, targeted learning resources for students worldwide by using LLMs to generate university-specific practice questions.
 
 ## 👥 Team Members & Roles
-- [cite_start]**Name**: [你的中文/英文名] [cite: 55]
+- [cite_start]**Name**: OuyangRuilin [cite: 55]
 - [cite_start]**Student ID**: 0387286 [cite: 55]
 - [cite_start]**Role**: Project Lead / System Architect / Full-stack Developer [cite: 55]
 
